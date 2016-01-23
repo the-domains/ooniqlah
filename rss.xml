@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[OoNiQLah]]></title>
+        <description><![CDATA[OoNiQLah]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Jan 2016 03:01:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The dawn of marketing's new golden age]]></title>
+            <description><![CDATA[<article><h1>The dawn of marketing's new golden age</h1><p>Science has permeated marketing for decades. Fans of the television drama Mad Men saw a fictionalized encounter when an IBM System/360 mainframe computer physically displaced the creative department of a late-1960s advertising agency. In reality, though, the 1960s through the early 1990s witnessed a happy marriage of advertising and technology as marketers mastered both the medium of television and the science of Nielsen ratings.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/80a72ba81dd9f4a83a3240706be8126d90c8a35f.ashx"></article>]]></description>
+            <link>http://www.mckinsey.com/insights/marketing_sales/the_dawn_of_marketings_new_golden_age?cid=other-eml-ttn-mip-mck-oth-1512&amp;utm_content=bufferfe003&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer</link>
+            <guid isPermaLink="false">669cded3-e1cc-4a17-8f1e-a5549453bf14</guid>
+            <pubDate>Sat, 23 Jan 2016 03:01:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
